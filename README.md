@@ -73,7 +73,7 @@ python consumer.py
 As planilhas geradas serão salvas no diretório do projeto e o usuario é notificado.
 
 Estrutura do Projeto
-
+```
 📂 seu-repositorio
 ├── app.py                # Interface Streamlit para upload
 ├── consumer.py           # Consumidor do RabbitMQ
@@ -84,8 +84,8 @@ Estrutura do Projeto
 ├── requirements.txt      # Dependências do projeto
 ├── .env                  # Configurações do ambiente (não commitado)
 └── README.md             # Documentação do projeto
-
-Licença
+```
+## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
